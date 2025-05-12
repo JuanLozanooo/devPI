@@ -4,3 +4,4 @@ Corrigiendo error de tipo en el campo date, ahora usando str para evitar conflic
 Validación de rango y longitud añadida a campos como gender y relationship_status.
 Test exitoso del endpoint POST para MentalHealth en entorno async con FastAPI.
 Integración del modelo SocialMedia, con campos personalizados para hábitos digitales.
+Manejo de errores de integridad por IDs duplicados en inserciones en mentalhealth y socialmedia.
