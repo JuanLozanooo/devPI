@@ -6,3 +6,4 @@ Test exitoso del endpoint POST para MentalHealth en entorno async con FastAPI.
 Integración del modelo SocialMedia, con campos personalizados para hábitos digitales.
 Manejo de errores de integridad por IDs duplicados en inserciones en mentalhealth y socialmedia.
 Separación de modelos de entrada, actualización y respuesta para MentalHealth y SocialMedia.
+Revisión de fecha y formato para commits en GitHub y simulación de historial.
