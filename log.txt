@@ -3,3 +3,4 @@ Creando operaciones asincrónicas para insertar datos en la tabla mentalhealth.
 Corrigiendo error de tipo en el campo date, ahora usando str para evitar conflicto con PostgreSQL.
 Validación de rango y longitud añadida a campos como gender y relationship_status.
 Test exitoso del endpoint POST para MentalHealth en entorno async con FastAPI.
+Integración del modelo SocialMedia, con campos personalizados para hábitos digitales.
