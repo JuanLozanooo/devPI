@@ -1,2 +1,3 @@
 Inicializando modelo MentalHealth con SQLModel y validaciones básicas.
 Creando operaciones asincrónicas para insertar datos en la tabla mentalhealth.
+Corrigiendo error de tipo en el campo date, ahora usando str para evitar conflicto con PostgreSQL.
