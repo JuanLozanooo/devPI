@@ -7,3 +7,4 @@ Integración del modelo SocialMedia, con campos personalizados para hábitos dig
 Manejo de errores de integridad por IDs duplicados en inserciones en mentalhealth y socialmedia.
 Separación de modelos de entrada, actualización y respuesta para MentalHealth y SocialMedia.
 Revisión de fecha y formato para commits en GitHub y simulación de historial.
+Documentación parcial del proceso de construcción de API REST para salud mental y redes sociales.
