@@ -1,1 +1,2 @@
 Inicializando modelo MentalHealth con SQLModel y validaciones básicas.
+Creando operaciones asincrónicas para insertar datos en la tabla mentalhealth.
